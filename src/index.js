@@ -7,7 +7,7 @@ import "tachyons";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Hello greeting={"Hello React Ninja"} />;
+    <Hello greeting={"Welcome Back, Friend"} />;
   </React.StrictMode>,
   document.getElementById("root")
 );
